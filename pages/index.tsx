@@ -27,9 +27,7 @@ export default function Home({ file }) {
       <main>
         <h1 className="title">{data.title}</h1>
 
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <p className="description">A website template</p>
 
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
